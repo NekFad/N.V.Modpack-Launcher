@@ -16,6 +16,7 @@ N.V.Modpack Launcher là Trình khởi chạy cho [NekFad Village Modpack](https
 
 ## Yêu cầu
 * Windows 10 phiên bản 1803 hoặc cao hơn
+* Trong máy tính phải cài [Legacy Launcher](https://llaun.ch/installer).
 
 ## License
 * N.V.M Launcher được cấp phép theo giấy phép [GNU General Public License v3.0](https://github.com/Tankira/N.V.Modpack-Launcher/blob/main/LICENSE)
